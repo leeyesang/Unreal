@@ -1,0 +1,2 @@
+C:\Users\yah91\source\unreal\Unreal\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\Definitions.QuickStart.h
+C:\Users\yah91\source\unreal\Unreal\QuickStart\Source\QuickStart\QuickStart.h
